@@ -28,7 +28,8 @@ I'm currently working on building my project portfolio for this year.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philip-henry-h-783039b5) 
-
+<br/>
+Profile Photo <a href="http://www.freepik.com">Designed by pikisuperstar / Freepik</a>
 
 
 
