@@ -36,8 +36,8 @@ This portfolio page is a work in progress. Check back frequently as I upload my 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philip-henry-h-783039b5) 
 <br/>
-Profile Photo <a href="http://www.freepik.com">Designed by pikisuperstar / Freepik</a>
-
+Profile Photo <a href="http://www.freepik.com">Designed by pikisuperstar / Freepik</a><br/>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=philph01)
 
 
 ---
