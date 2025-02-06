@@ -5,8 +5,6 @@
 System Analyst Programmer, Traditional ETL & Datawarehouse Developer, Aspiring Data Engineer
 <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philip-henry-h-783039b5) 
 <br/>
-<br/>
-
 <b>Certifications:</b><br/>
 AWS Certified Cloud Practitioner<br/>
 DataCamp Data Engineer Associate<br/>
