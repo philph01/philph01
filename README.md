@@ -19,7 +19,7 @@ This portfolio page is a work in progress. Check back frequently as I upload my 
 - <b>...</b><br/>
 <h2>* SQLs, ETLs, Data Modelling, Data Warehousing, Power BI Visuals:</h2>  
 - <b>Weather Data Pipeline</b> - <a href="https://github.com/philph01">Weather Data Pipeline using Python and PostgreSQL</a><br/>
-- <b>Basic Sales Dashboard</b> - <a href="https://github.com/philph01">Basic Sales Dashboard using Power BI</a><br/>
+- <b>Basic Sales Dashboard</b> - <a href="https://github.com/philph01/Cola-Basic-Sales-Dashboard">Basic Sales Dashboard using Power BI</a><br/>
 - <b>...</b><br/>
 <h2>* AWS, Azure Projects:</h2><br/>
 - <b>...</b><br/>
