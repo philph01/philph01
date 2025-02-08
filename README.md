@@ -10,7 +10,7 @@ AWS Certified Cloud Practitioner<br/>
 DataCamp Data Engineer Associate<br/>
 Informatica Certified PowerCenter Data Integration Developer
 
-# 💻 Projects:
+# 💻 Hands-on Projects:
 This portfolio page is a work in progress. Check back frequently as I upload my projects for this year.
 
 <h2>* Python Programming:</h2>
