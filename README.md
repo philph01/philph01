@@ -24,6 +24,7 @@ This portfolio page is a work in progress. Check back frequently as I upload my 
 - <b>Weather Data Pipeline</b> - <a href="https://github.com/philph01">Weather Data Pipeline using Python and PostgreSQL</a><br/>
 - <b>...</b><br/>
 <h2>* AWS, Azure Projects:</h2><br/>
+- <b>Amazon Best Seller Report</b> - <a href="https://github.com/philph01">Amazon Best Seller Report using S3 and QuickSight.</a><br/>
 - <b>...</b><br/>
 - <b>...</b><br/>
 
