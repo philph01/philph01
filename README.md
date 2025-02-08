@@ -23,8 +23,9 @@ This portfolio page is a work in progress. Check back frequently as I upload my 
 <h2>* SQLs, ETLs, Data Modelling, Data Warehousing</h2>  
 - <b>Weather Data Pipeline</b> - <a href="https://github.com/philph01">Weather Data Pipeline using Python and PostgreSQL</a><br/>
 - <b>...</b><br/>
-<h2>* AWS, Azure Projects:</h2><br/>
-- <b>Amazon Best Seller Report</b> - <a href="https://github.com/philph01">Amazon Best Seller Report using S3 and QuickSight.</a><br/>
+<h2>* AWS Cloud Projects:</h2>
+- <b>TrixieLytics Website</b> - <a href="https://github.com/philph01/trixielytics-analytics-website">Static website for startup company using HTML, CSS, AWS S3 and AWS Amplify</a><br/>
+- <b>Amazon Best Seller Report</b> - <a href="https://github.com/philph01">Amazon Best Seller Report using S3 and QuickSight</a><br/>
 - <b>...</b><br/>
 - <b>...</b><br/>
 
