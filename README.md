@@ -17,9 +17,11 @@ This portfolio page is a work in progress. Check back frequently as I upload my 
 - <b>Task Manager Web App</b> - <a href="https://github.com/philph01/Flask-Task-Mgr-CRUD">Simple Task Management Tool with FLask API in Python</a><br/>
 - <b>...</b><br/>
 - <b>...</b><br/>
-<h2>* SQLs, ETLs, Data Modelling, Data Warehousing, Power BI Visuals:</h2>  
-- <b>Weather Data Pipeline</b> - <a href="https://github.com/philph01">Weather Data Pipeline using Python and PostgreSQL</a><br/>
+<h2>* Power BI Visuals:</h2>  
 - <b>Basic Sales Dashboard</b> - <a href="https://github.com/philph01/Cola-Basic-Sales-Dashboard">Basic Sales Dashboard using Power BI</a><br/>
+- <b>Airline Flights Dashboard</b> - <a href="https://github.com/philph01/Airline-Flights-Dashboard">Airline Flights Dashboard using Power BI, DAX measures</a><br/>
+<h2>* SQLs, ETLs, Data Modelling, Data Warehousing</h2>  
+- <b>Weather Data Pipeline</b> - <a href="https://github.com/philph01">Weather Data Pipeline using Python and PostgreSQL</a><br/>
 - <b>...</b><br/>
 <h2>* AWS, Azure Projects:</h2><br/>
 - <b>...</b><br/>
