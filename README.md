@@ -25,6 +25,7 @@ This portfolio page is a work in progress. Check back frequently as I upload my 
 - <b>...</b><br/>
 <h2>* AWS Cloud Projects:</h2>
 - <b>TrixieLytics Website</b> - <a href="https://github.com/philph01/trixielytics-analytics-website">Static website for startup company using HTML, CSS, AWS S3 and AWS Amplify</a><br/>
+- <b>COVID-19 Analysis Report</b> - <a href="https://github.com/philph01/covid19-analysis-report-quicksight">COVID-19 Analysis Report Visualizations Using S3 and QuickSight</a><br/>
 - <b>Amazon Best Seller Report</b> - <a href="https://github.com/philph01">Amazon Best Seller Report using S3 and QuickSight</a><br/>
 - <b>...</b><br/>
 - <b>...</b><br/>
