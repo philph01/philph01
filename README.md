@@ -8,19 +8,22 @@ I'm an ETL & Traditional Datawarehouse Developer and an Aspiring Data Engineer. 
 # Projects & Learnings
 This section is a work in progress. Check back frequently as I upload my projects for this year.
  
-### Python Programming
-### ![Python Programming](https://img.shields.io/badge/Python_Programming-%23117AC9.svg?style=flat&logo=gnu-bash&logoColor=white)
+<!-- ### Python Programming -->
+### ![ Python Programming: ](https://img.shields.io/badge/Python_Programming:-%23117AC9.svg?style=flat&logo=gnu-bash&logoColor=white)
 
 - **1. Task Manager Web App** - <a href="https://github.com/philph01/Flask-Task-Mgr-CRUD">Simple Task Management Tool with FLask API in Python</a><br/>
 
-### Power BI Visuals 
+<!-- ### Power BI Visuals -->
+### ![ Power BI Visuals: ](https://img.shields.io/badge/Power_BI_Visuals:-%23117AC9.svg?style=flat&logo=gnu-bash&logoColor=white)
 - **1. Basic Sales Dashboard** - <a href="https://github.com/philph01/Cola-Basic-Sales-Dashboard">Basic Sales Dashboard using Power BI</a><br/>
 - **2. Airline Flights Dashboard** - <a href="https://github.com/philph01/Airline-Flights-Dashboard">Airline Flights Dashboard using Power BI, DAX measures</a><br/>
 
-### SQLs, ETLs, Data Warehousing 
+<!-- ### SQLs, ETLs, Data Warehousing -->
+### ![ SQLs, ETLs, Data Warehousing: ](https://img.shields.io/badge/SQLs,_ETLs,_Data_Warehousing:-%23117AC9.svg?style=flat&logo=gnu-bash&logoColor=white)
 - **1. Weather Data Pipeline** - <a href="https://github.com/philph01">Weather Data Pipeline using Python and PostgreSQL</a><br/>
 
-### AWS Cloud Projects
+<!-- ### AWS Cloud Projects -->
+### ![ AWS Cloud Projects: ](https://img.shields.io/badge/AWS_Cloud_Projects:-%23117AC9.svg?style=flat&logo=gnu-bash&logoColor=white)
 - **1. TrixieLytics Website** - <a href="https://github.com/philph01/trixielytics-analytics-website">Static website for startup company using HTML, CSS, AWS S3 and AWS Amplify</a><br/>
 - **2. COVID-19 Analysis Report** - <a href="https://github.com/philph01/covid19-analysis-report-quicksight">COVID-19 Analysis Report Visualizations Using S3 and QuickSight</a><br/>
 - **3. Amazon Best Seller Report** - <a href="https://github.com/philph01">Amazon Best Seller Report using S3 and QuickSight</a><br/>
