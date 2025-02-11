@@ -28,7 +28,11 @@ This section is a work in progress. Check back frequently as I upload my project
 - **2. COVID-19 Analysis Report** - <a href="https://github.com/philph01/covid19-analysis-report-quicksight">COVID-19 Analysis Report Visualizations Using S3 and QuickSight</a><br/>
 - **3. Amazon Best Seller Report** - <a href="https://github.com/philph01">Amazon Best Seller Report using S3 and QuickSight</a><br/>
 
-### Currently Working On
+<!-- Most Used Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=philph01&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+## Currently Working On
 - **AWS Cloud Development**: Building foundational knowledge with **AWS** services like **S3**, **Redshift**, **Glue**, and **Lambda** for data engineering projects.
 - **Snowflake**: Diving deeper into **Snowflake** for cloud-based data warehousing and analytics solutions.
 - **Python Projects**: Focusing on personal **Python** projects to strengthen my programming and data manipulation skills, as well as my understanding of automation and data workflows.
@@ -45,7 +49,6 @@ This section is a work in progress. Check back frequently as I upload my project
 ![](https://github-readme-stats.vercel.app/api?username=philph01&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=philph01&theme=catppuccin_latte&hide_border=false)<br/>
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=philph01&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🌐 Socials
