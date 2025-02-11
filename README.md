@@ -69,9 +69,10 @@ Profile Photo <a href="http://www.freepik.com">Designed by pikisuperstar / Freep
 
 <br/><b>Badges</b><br/>
 <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="86" height="86">
+<img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Cloud Computing" width="85" height="85">
+<img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="AWS Well Architected Proficient" width="85" height="85">
+<img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/DE_Associate_-_badge_with_outline.png" alt="AWS Well Architected Proficient" width="75" height="85">
 <img src="badge-thumbs/Badge-PCDI-10-Developer.png" alt="Informatica Power Center 10" width="75" height="85">
-<img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="AWS Well Architected Proficient" width="86" height="86">
-<img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Cloud Computing" width="86" height="86">
 
 
 
