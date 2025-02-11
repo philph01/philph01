@@ -12,28 +12,28 @@ I'm an ETL & Traditional Datawarehouse Developer and an Aspiring Data Engineer. 
 - **Python Projects**: Focusing on personal **Python** projects to strengthen my programming and data manipulation skills, as well as my understanding of automation and data workflows.
 - **Certifications & Learning**: Continuing my learning path with **AWS**, and exploring **Snowflake** certifications and other data engineering tools.
 
-## 🛠️ Hands-on Projects:
+# Hands-on Projects:
 This portfolio page is a work in progress. Check back frequently as I upload my projects for this year.
 
-### * Python Programming:
+### 🛠️ Python Programming:
 - **1. Task Manager Web App** - <a href="https://github.com/philph01/Flask-Task-Mgr-CRUD">Simple Task Management Tool with FLask API in Python</a><br/>
 
-### * Power BI Visuals: 
+### 🛠️ Power BI Visuals: 
 - **1. Basic Sales Dashboard** - <a href="https://github.com/philph01/Cola-Basic-Sales-Dashboard">Basic Sales Dashboard using Power BI</a><br/>
 - **2. Airline Flights Dashboard** - <a href="https://github.com/philph01/Airline-Flights-Dashboard">Airline Flights Dashboard using Power BI, DAX measures</a><br/>
 
-### * SQLs, ETLs, Data Warehousing 
+### 🛠️ SQLs, ETLs, Data Warehousing 
 - **1. Weather Data Pipeline** - <a href="https://github.com/philph01">Weather Data Pipeline using Python and PostgreSQL</a><br/>
 
-### * AWS Cloud Projects:
-<b>1. TrixieLytics Website</b> - <a href="https://github.com/philph01/trixielytics-analytics-website">Static website for startup company using HTML, CSS, AWS S3 and AWS Amplify</a><br/>
-<b>2. COVID-19 Analysis Report</b> - <a href="https://github.com/philph01/covid19-analysis-report-quicksight">COVID-19 Analysis Report Visualizations Using S3 and QuickSight</a><br/>
-<b>3. Amazon Best Seller Report</b> - <a href="https://github.com/philph01">Amazon Best Seller Report using S3 and QuickSight</a><br/>
+### 🛠️ AWS Cloud Projects:
+- **1. TrixieLytics Website** - <a href="https://github.com/philph01/trixielytics-analytics-website">Static website for startup company using HTML, CSS, AWS S3 and AWS Amplify</a><br/>
+- **2. COVID-19 Analysis Report** - <a href="https://github.com/philph01/covid19-analysis-report-quicksight">COVID-19 Analysis Report Visualizations Using S3 and QuickSight</a><br/>
+- **3. Amazon Best Seller Report** - <a href="https://github.com/philph01">Amazon Best Seller Report using S3 and QuickSight</a><br/>
 
 
 ### 🎓 Certifications
 - **AWS Certified Cloud Practitioner** (2025) - Acknowledging my foundational AWS cloud skills and knowledge.
-- **DataCamp Data Engineer Associate** (2025) - Acknowledging my foundational AWS cloud skills and knowledge.
+- **DataCamp Data Engineer Associate** (2024). 
 - **Informatica Certified PowerCenter Data Integration Developer** (2023) - Expertise in building and managing ETL processes and data integration pipelines.
 
 
