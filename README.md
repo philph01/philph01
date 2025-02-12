@@ -6,14 +6,12 @@
 
 
 # Hi, I'm Phil! Welcome to my page!
-<!-- I'm an ETL & Traditional Datawarehouse Developer and an Aspiring Data Engineer. Passionate about Data Integration, Analytics and Cloud Computing. -->
+<!-- I’m an **ETL Developer** with a strong background in **Traditional ETL and Data Warehousing** (Informatica PC), transitioning into **Data Engineering** and **Cloud Computing**. 
+Over the years, I’ve gained valuable experience as a **Software Engineer**, **System Analyst**, **ETL/EDW Developer**, and **Development Manager** in leading enterprises, including a prominent telecom company and a major bank. -->
 
-I’m an **ETL Developer** with a strong background in **Traditional ETL and Data Warehousing** (Informatica PC), transitioning into **Data Engineering** and **Cloud Computing**. 
-Over the years, I’ve gained valuable experience as a **Software Engineer**, **System Analyst**, **ETL/EDW Developer**, and **Development Manager** in leading enterprises, including a prominent telecom company and a major bank. 
+Over the years, I’ve gained valuable experience as a **Software Engineer**, **System Analyst**, **ETL/EDW Developer**, and **Development Manager** in leading enterprises, including a well known telecom company and a major bank. My career has spanned traditional ETL processes, data warehousing, application support, and IT Operations.
 
-My career has spanned traditional ETL processes, data warehousing, application support, and IT Operations.
-
-I'm currently focused on advancing my skills in **AWS cloud services** and **Snowflake**, while building my expertise in **Python** for data engineering projects.
+I'm currently focused on advancing my skills in **AWS cloud services** and **Snowflake**, while building my expertise in **Python**. I'm an ETL & Traditional Datawarehouse Developer and an aspiring Data Engineer. Passionate about Data Integration, Analytics and Cloud Computing. 
 
 # Projects & Learnings
 This section is a work in progress. Check back frequently as I upload my projects for this year.
