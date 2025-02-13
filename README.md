@@ -11,7 +11,7 @@ Over the years, I’ve gained valuable experience as a **Software Engineer**, **
 
 Over the years, I’ve gained valuable experience as a **Software Engineer**, **System Analyst**, **ETL/EDW Developer**, and **Development Manager** in leading enterprises, including a well known telecom company and a major bank. My career has spanned traditional ETL processes, data warehousing, application support, and IT Operations.
 
-I'm currently focused on advancing my skills in **AWS cloud services** and **Snowflake**, while building my expertise in **Python**. I'm an ETL & Traditional Datawarehouse Developer and an aspiring Data Engineer. Passionate about Data Integration, Analytics and Cloud Computing. 
+I'm currently focused on advancing my skills in **Cloud services** and **Snowflake**, while building my expertise in **Python**. I'm an ETL & Traditional Datawarehouse Developer and an aspiring Data Engineer. Passionate about Data Integration, Analytics and Cloud Computing. 
 
 # Projects & Learnings
 This section is a work in progress. Check back frequently as I upload my projects for this year.
@@ -30,7 +30,7 @@ This section is a work in progress. Check back frequently as I upload my project
 ### ![ SQLs, ETLs, Data Warehousing: ](https://img.shields.io/badge/SQLs,_ETLs,_Data_Warehousing:-%23316192.svg?style=flat&logo=gnu-bash&logoColor=white)
 - **1. Weather Data Pipeline** - <a href="https://github.com/philph01">Weather Data Pipeline using Python and PostgreSQL</a><br/>
 
-<!-- ### AWS Cloud Projects -->
+<!-- ### AWS, Azure, GCP Cloud Projects -->
 ### ![ AWS Cloud Projects: ](https://img.shields.io/badge/AWS_Cloud_Projects:-%23316192.svg?style=flat&logo=gnu-bash&logoColor=white)
 - **1. TrixieLytics Website** - <a href="https://github.com/philph01/trixielytics-analytics-website">Static website for startup company using HTML, CSS, AWS S3 and AWS Amplify</a><br/>
 - **2. COVID-19 Analysis Report** - <a href="https://github.com/philph01/covid19-analysis-report-quicksight">COVID-19 Analysis Report Visualizations Using S3 and QuickSight</a><br/>
