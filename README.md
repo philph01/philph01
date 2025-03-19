@@ -13,7 +13,7 @@ Over the years, I’ve gained valuable experience as a **Software Engineer**, **
 
 I'm currently focused on advancing my skills in **Cloud services** and **Snowflake**, while building my expertise in **Python**. I'm an ETL & Traditional Datawarehouse Developer and an aspiring Data Engineer. Passionate about Data Integration, Analytics and Cloud Computing. 
 
-# Projects & Learnings
+# Personal Projects & Learnings
 This section is a work in progress. Check back frequently as I upload my projects for this year.
  
 <!-- ### Python Programming -->
@@ -47,9 +47,10 @@ This section is a work in progress. Check back frequently as I upload my project
 - **Certifications & Learning**: Continuing my learning path with **AWS**, and exploring **Snowflake** certifications and other data engineering tools.
 
 ### 🎓 Certifications
-- **AWS Certified Cloud Practitioner** (2025) - Acknowledging my foundational AWS cloud skills and knowledge.
-- **DataCamp Data Engineer Associate** (2024). 
-- **Informatica Certified PowerCenter Data Integration Developer** (2023) - Expertise in building and managing ETL processes and data integration pipelines.
+- **Azure Certified Data Fundamentals** (Mar-2025) - Demonstrating expertise in core data concepts, relational and non-relational databases, and data processing.
+- **AWS Certified Cloud Practitioner** (Jan-2025) - Foundation in cloud computing, data storage, and AWS data services, supporting data engineering solutions.
+- **DataCamp Data Engineer Associate** (Nov-2024). - Demonstrating core skills in data management, exploratory analysis, and foundational data engineering principles.
+- **Informatica Certified PowerCenter Data Integration Developer** (Feb-2023) - Demonstrating expertise in ETL development, data integration, and data warehousing.
 
 
 <!--
